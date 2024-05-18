@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay-chin" alt="vinay-chin" /></a> </p>
 
-- 🔭 I’m currently working on [BookMypartys](bookymypartys.com)
+- 🔭 I’m currently working as Freelancer
 
 - 🌱 I’m currently learning **Vue.js,prompt engerneering**
 
